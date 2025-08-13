@@ -4,8 +4,6 @@ import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.lang.reflect.Array;
-
 @RestController
 public class VacationPlan {
 
